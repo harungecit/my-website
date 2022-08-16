@@ -19,6 +19,8 @@ const Footer = (props) => {
         </a>{" "}
         using <i className="fab fa-react" />
          {" "}
+         edited by
+         {" "}
          <a
           rel="noopener"
           href="https://github.com/harungecit"
