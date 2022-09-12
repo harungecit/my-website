@@ -31,6 +31,10 @@ const mainBody = {
       image: "fa-twitter",
       url: "https://www.twitter.com/gecitharun",
     },
+    {
+      image: "fa-youtube",
+      url: "https://www.youtube.com/channel/UCo0VqsWmw8QmRK__3aBBlOg",
+    },
   ],
 };
 
@@ -66,7 +70,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "harungecit", //i.e."johnDoe12Gh"
+  gitHubUsername: "harungecit", //i.e."harungecit"
   reposLength: 4,
   specificRepos: [],
 };
@@ -111,8 +115,8 @@ const skills = {
   ],
   softSkills: [
     { name: "Click-up", value: 80 },
+    { name: "Asana", value: 70 },
     { name: "Trello", value: 70 },
-    { name: "Asana", value: 60 },
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
     { name: "Empathy", value: 90 },
